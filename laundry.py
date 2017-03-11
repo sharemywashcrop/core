@@ -7,5 +7,7 @@ Created on Sat Mar 11 19:24:25 2017
 
 class laundry:
     
-    def __init__(self):
-        
+    def __init__(self,l,m=[],d=[]):
+        self.location = l
+        self.machines = m
+        self.dryers = d
