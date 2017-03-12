@@ -13,5 +13,5 @@ class user:
         self.name = n
         self.email = e
         self.token = t
-        self.location =  # evol("(233,234)")
+        self.location ="" # evol("(233,234)")
         self.pseudo = p
