@@ -5,6 +5,8 @@ Created on Sat Mar 11 20:38:08 2017
 @author: Thomas
 """
 
+import base64
+
 class wmachine:
     
     def __init__(self,i,b,e,c,s):
